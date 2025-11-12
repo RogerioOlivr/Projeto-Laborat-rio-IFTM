@@ -22,9 +22,6 @@ O app foi desenvolvido com foco em **usabilidade, clareza e acessibilidade**, se
 
 ---
 
-
----
-
 ## 📱 Funcionalidades Principais
 
 ### 🗓️ Cadastro de Eventos (`EventoForm`)
